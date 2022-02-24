@@ -5,10 +5,7 @@
  */
 package repozit;
 
-/**
- *
- * @author 21602
- */
+
 public class Main {
 
   
