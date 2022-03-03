@@ -1,4 +1,3 @@
-
 package repozit;
 
 
@@ -9,7 +8,7 @@ public class Main {
       // mama ya gey
       // papa ya gey
     }
-    
 }
 //fgdfhjftghftgj
 //you should come to shiratorizawa
+//privet vsem ya ne frick //mama prosti ya sovral
