@@ -8,7 +8,11 @@ public class Main {
       // mama ya gey
       // papa ya gey
     }
-}
+}//you should cum to shiratorizawa
+//ngvbgmlhjfghjk
+//ass we can
+//hjul 
 //fgdfhjftghftgj
 //you should come to shiratorizawa
 //privet vsem ya ne frick //mama prosti ya sovral
+
