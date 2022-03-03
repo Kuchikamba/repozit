@@ -10,5 +10,4 @@ public class Main {
     }
     
 }
-//fgdfhjftghftgj
-//you should come to shiratorizawa
+//you should cum to shiratorizawa
